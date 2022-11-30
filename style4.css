@@ -1,0 +1,69 @@
+body{
+    position: relative;
+    background-color: rgb(63, 63, 63);
+    font-family: 'Noto Sans Georgian', sans-serif;
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+    background-image:url(https://github.com/khvtisowebdeveloper/history/blob/main/Untitled2-2.png?raw=true);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+.intro{
+    position: relative;
+    height: 100vh;
+
+}
+.intro__bg{
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    
+}
+.intro__bg-img{
+    max-width: 100%;
+    height: auto;
+    
+}
+.start{
+    color: rgb(255, 255, 255);
+    position: relative;
+    z-index: 9999;
+    background: rgba(0, 0, 0, 0.4);
+color: #fff;
+margin-top: 235px;
+   
+    
+    
+    
+}
+.text{
+    position: absolute;
+    z-index: 9999;
+    color: white;
+    background: rgba(0, 0, 0, 0.4);
+color: #fff;
+
+}
+.start0{
+    color: white;
+    position: relative;
+    z-index: 9999;
+    background: rgba(0, 0, 0, 0.4);
+color: #fff;
+margin-top: 220px;
+    
+}
+.start4{
+    color: white;
+    position: relative;
+    z-index: 9999;
+    background: rgba(0, 0, 0, 0.4);
+color: #fff;
+margin-top: 100px;
+
+}

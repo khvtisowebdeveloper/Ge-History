@@ -1,0 +1,90 @@
+.start{
+    font-family: 'Noto Sans Georgian', sans-serif;
+     color: rgb(255, 255, 255);
+     background: rgba(0, 0, 0, 0.4);
+color: #fff;
+
+     
+     
+}
+body{
+    position: relative;
+    background-color: rgb(63, 63, 63);
+    font-family: 'Noto Sans Georgian', sans-serif;
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+    background-image:url(https://github.com/khvtisowebdeveloper/history/blob/main/Untitled2-2.png?raw=true);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.text{
+    color: white;
+    position: relative;
+     padding: 0%;
+     z-index: 9999;
+     margin: 5%;
+   display: flex;
+   background: rgba(0, 0, 0, 0.4);
+color: #fff;
+    
+}
+.start2{
+    font-family: 'Noto Sans Georgian', sans-serif;
+     color: rgb(255, 255, 255);
+     background: rgba(0, 0, 0, 0.4);
+color: #fff;
+    
+     
+}
+.text2{
+    color: white;
+    position: relative;
+     padding: 0%;
+     z-index: 9999;
+     margin: 5%;
+   display: flex;
+   background: rgba(0, 0, 0, 0.4);
+color: #fff;
+    
+}
+.start3{
+    font-family: 'Noto Sans Georgian', sans-serif;
+     color: rgb(0, 0, 0);
+     background: rgba(0, 0, 0, 0.4);
+color: #fff;
+    
+}
+.text3{
+    color: white;
+    position: relative;
+     padding: 0%;
+     z-index: 9999;
+     margin: 5%;
+   display: flex;
+   background: rgba(0, 0, 0, 0.4);
+color: #fff;
+    
+}
+.intro{
+    position: relative;
+    height: 100vh;
+
+}
+.intro__bg{
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    
+}
+.intro__bg-img{
+    max-width: 100%;
+    height: auto;
+    
+}
+<a class="links"  href="#">საუკუნეები</a>
+        <a class="links"  href="#">მნიშვნელოვანი ინფორმაცია</a>
+        <a class="links"  href="#">ბრძოლები</a>
