@@ -85,6 +85,8 @@ color: #fff;
     height: auto;
     
 }
-<a class="links"  href="#">საუკუნეები</a>
-        <a class="links"  href="#">მნიშვნელოვანი ინფორმაცია</a>
-        <a class="links"  href="#">ბრძოლები</a>
+@media(max-width:768px){
+    body {
+        font-size: 11px;
+    }
+}
